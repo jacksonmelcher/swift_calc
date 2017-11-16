@@ -18,7 +18,7 @@ macOS
 2. Clone repo with this command:
 
 ```
-$	git clone https://github.com/jacksonmelcher/swift_calc.git 
+git clone https://github.com/jacksonmelcher/swift_calc.git 
 ```
 
 3. Open directory in Xcode and click the play button in the top left corner.
