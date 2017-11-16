@@ -9,4 +9,10 @@ How to run
 
 **System Requirements**
 
-macOS, Ubuntu Linux LTS, and the latest Ubuntu Linux release are the current supported host development operating systems.
+macOS
+
+**macOS**
+
+Xcode can be dowloaded [here](https://itunes.apple.com/us/app/xcode/id497799835?mt=12).
+
+
