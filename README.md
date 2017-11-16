@@ -17,7 +17,6 @@ Xcode can be dowloaded [here](https://itunes.apple.com/us/app/xcode/id497799835?
 
 ''' 
 git clone https://github.com/jacksonmelcher/swift_calc.git 
-
 '''
 
 
